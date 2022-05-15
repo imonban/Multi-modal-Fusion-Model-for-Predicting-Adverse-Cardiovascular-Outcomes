@@ -1,6 +1,7 @@
 # Multi-modal-Fusion-Model-for-Predicting-Adverse-Cardiovascular-Outcomes
 
-The code for the multi-modal fusion model for prediction of adverse cardiovascular outcomes using both ECG and EHR Data
+The code for the multi-modal fusion model for prediction of adverse cardiovascular outcomes using both ECG and EHR Data.
+The code was implemented using Python 3.8 and Tensorflow 2.5.0 
 
 ## Model Description
 

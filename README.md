@@ -28,6 +28,7 @@ The model has been built for prediction of cardiovascular outcomes such as Strok
 6. **ROC.png**    - Sample ROC curve generated 
 7. **dataread.py**- Reading the ECG data, the EHR data, and the labels
 8. **config.json**- Used in building the branch corresponding to the ECG data and controlling the number of convolution layers
+9. **ModelImage.png** - Picture representation of our proposed fusion model
 
 ## How to Implement? 
 

@@ -23,14 +23,14 @@ The model has been built for prediction of cardiovascular outcomes such as Strok
 ## How to Implement? 
 
 Initially create an environment and install the requirements using the code below. 
-```
+```python
 pip install -r /path/to/requirements.txt
 ```
 
 Then run the **main.py** file, giving which takes the input a CSV file containing EHR data, using the code present below.
 **The EHR data was named as "Share_data_outcome_deidentified.csv" in our case**
 
-```
+```python
 !python3 main.py -i Share_data_outcome_deidentified.csv
 ```
 This will automatically save the ROC.png file having the ROC scores

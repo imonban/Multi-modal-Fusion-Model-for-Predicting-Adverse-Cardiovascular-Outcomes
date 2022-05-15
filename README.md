@@ -19,6 +19,16 @@ The model has been built for prediction of cardiovascular outcomes such as Strok
 ## Model
 ![ModelImage](https://user-images.githubusercontent.com/44440114/168468895-6380a1b8-44ac-45ac-abef-3728e0b34add.png)
 
+## Files Present
+1. **utility.py** - Contain the metrics 
+2. **train.py**   - The code for building the required model and perform the training operation
+3. **requirements.txt** - The libraries required to run the code
+4. **plotsave.py** - Plots the ROC-AUC curve
+5. **main.py**    - Running the code and saving the model results 
+6. **ROC.png**    - Sample ROC curve generated 
+7. **dataread.py**- Reading the ECG data, the EHR data, and the labels
+8. **config.json**- Used in building the branch corresponding to the ECG data and controlling the number of convolution layers
+
 ## How to Implement? 
 
 Initially create an environment and install the requirements using the code below. 

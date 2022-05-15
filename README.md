@@ -17,9 +17,6 @@ The model has been built for prediction of cardiovascular outcomes such as Strok
 ## Model
 ![ModelImage](https://user-images.githubusercontent.com/44440114/168468895-6380a1b8-44ac-45ac-abef-3728e0b34add.png)
 
-## Result
-![download (1)](https://user-images.githubusercontent.com/44440114/168469090-2c978263-7649-4665-9a9d-12808f1317d4.png)
-
 ## How to Implement? 
 
 Initially create an environment and install the requirements using the code below. 
@@ -34,3 +31,8 @@ Then run the **main.py** file, giving which takes the input a CSV file containin
 !python3 main.py -i Share_data_outcome_deidentified.csv
 ```
 This will automatically save the ROC.png file having the ROC scores
+
+## Result
+![ROC](https://user-images.githubusercontent.com/44440114/168469517-5bacce9b-6d1b-46a1-a579-58c6e19074c4.png)
+
+

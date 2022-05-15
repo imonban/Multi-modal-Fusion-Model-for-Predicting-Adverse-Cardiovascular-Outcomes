@@ -33,8 +33,11 @@ Then run the **main.py** file, giving which takes the input a CSV file containin
 !python3 main.py -i Share_data_outcome_deidentified.csv
 ```
 This will automatically save the ROC.png file having the ROC scores
+**The data we worked on has not been uploaded yet.**
 
 ## Result
 ![ROC](https://user-images.githubusercontent.com/44440114/168469517-5bacce9b-6d1b-46a1-a579-58c6e19074c4.png)
 
-
+## Contribution
+The code contribution of the Fusion Model was made ![Amartya Bhattacharya](amartyacodes.github.io) while working as a research assistant at [Banerjee Lab, Arizona State University](https://labs.engineering.asu.edu/banerjeelab/)under the guidance of [Dr. Imon Banerjee](https://labs.engineering.asu.edu/banerjeelab/person/imon-banerjee/) and [Dr. Arindam Sanyal](https://labs.engineering.asu.edu/mixedsignals/)
+I wish to convey my sincere gratitude to the professors for giving me the opportunity to work on this project.
